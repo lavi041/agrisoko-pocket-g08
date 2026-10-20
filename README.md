@@ -1,16 +1,19 @@
 # AgriSoko Pocket G08
 
-> Replace every `G08`, `REPLACE` and `TODO` with your real group data before submitting.
+> Fill every `REPLACE` and `TODO` with real group data before submitting.
 
 **Group code:** G08  |  **Course:** Integrated Mobile and Artificial Intelligence, Group Assignment 3 (INES Ruhengeri)
 
 ## Members and roles
-| # | Name | Reg. no. | GitHub | Primary role | Review role |
-|---|------|----------|--------|--------------|-------------|
-| 1 | TODO | TODO | TODO | Product and GitHub lead | Product scope and contribution evidence |
-| 2 | TODO | TODO | TODO | AI and data engineer | API tests and no-match safety |
-| 3 | TODO | TODO | TODO | API and integration engineer | Mobile networking and error handling |
-| 4 | TODO | TODO | TODO | Mobile UI, offline and release engineer | AI query evaluation |
+| # | Name | Reg. no. | GitHub | Primary role | Review responsibility |
+|---|------|----------|--------|--------------|-----------------------|
+| 1 | Aisha Niyonsaba | 25/27104 | lavi041 | Product and GitHub lead (also release and evidence) | Reviews Adelphine's PR: product scope and contribution evidence |
+| 2 | Mahgoub ADIL AHMED ALHASSAN | 25/28013 | mahgoubalhassan2-tec | AI and data engineer | Reviews Manzi's PR: API tests and no-match safety |
+| 3 | Manzi Kassim | 25/27935 | manzikassim | API and integration engineer | Reviews Sumaya's PR: mobile networking and error handling |
+| 4 | Inezaye Iwacu Adelphine | 25/27676 | addyiwacu444-1 | Mobile UI and navigation engineer | Reviews Aisha's PR: UI and UX evidence |
+| 5 | Ishimwe Sumaya | 25/27949 | ug2527949-cyber | Offline and quality engineer (shares release and evidence) | Reviews Mahgoub's PR: AI query evaluation |
+
+Five-member combination: roles 1-5; the Product lead and the Quality engineer share release and evidence duties.
 
 ## Purpose
 AgriSoko Pocket lets a visitor ask about any team member by name, nickname, role, skill or feature. A deterministic

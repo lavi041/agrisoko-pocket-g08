@@ -1,20 +1,86 @@
 [
-  {"query": "Tell me about Alice", "expected": "alice-example"},
-  {"query": "Who is the Product and GitHub lead?", "expected": "alice-example"},
-  {"query": "Who handled release management and GitHub workflow?", "expected": "alice-example"},
-  {"query": "Who is Bobby?", "expected": "bob-example"},
-  {"query": "Who is the AI and data engineer?", "expected": "bob-example"},
-  {"query": "Who built the TF-IDF matching engine?", "expected": "bob-example"},
-  {"query": "Tell me about CJ", "expected": "carol-example"},
-  {"query": "Who is the API and integration engineer?", "expected": "carol-example"},
-  {"query": "Who built the FastAPI endpoints and deployment?", "expected": "carol-example"},
-  {"query": "What does Dave do?", "expected": "david-example"},
-  {"query": "Who is the Mobile UI, offline and release engineer?", "expected": "david-example"},
-  {"query": "Who built offline mode?", "expected": "david-example"},
-  {"query": "What is the capital of France?", "expected": null},
-  {"query": "Best pizza recipe", "expected": null},
-  {"query": "asdfgh qwerty", "expected": null},
-  {"query": "hello", "expected": null},
-  {"query": "Who will win the football match tomorrow?", "expected": null},
-  {"query": "Tell me about the lecturer", "expected": null}
+  {
+    "query": "Tell me about Aisha",
+    "expected": "aisha-niyonsaba"
+  },
+  {
+    "query": "Who is the Product and GitHub lead?",
+    "expected": "aisha-niyonsaba"
+  },
+  {
+    "query": "Who handled the GitHub workflow, release and evidence package?",
+    "expected": "aisha-niyonsaba"
+  },
+  {
+    "query": "Who is Mahgoub?",
+    "expected": "mahgoub-adil-ahmed-alhassan"
+  },
+  {
+    "query": "Who is the AI and data engineer?",
+    "expected": "mahgoub-adil-ahmed-alhassan"
+  },
+  {
+    "query": "Who built the TF-IDF matching engine and evaluation?",
+    "expected": "mahgoub-adil-ahmed-alhassan"
+  },
+  {
+    "query": "Tell me about Kassim",
+    "expected": "manzi-kassim"
+  },
+  {
+    "query": "Who is the API and integration engineer?",
+    "expected": "manzi-kassim"
+  },
+  {
+    "query": "Who built the FastAPI endpoints and deployment?",
+    "expected": "manzi-kassim"
+  },
+  {
+    "query": "What does Adelphine do?",
+    "expected": "inezaye-iwacu-adelphine"
+  },
+  {
+    "query": "Who is the Mobile UI and navigation engineer?",
+    "expected": "inezaye-iwacu-adelphine"
+  },
+  {
+    "query": "Who built the screens, navigation and accessibility?",
+    "expected": "inezaye-iwacu-adelphine"
+  },
+  {
+    "query": "Who is Sumaya?",
+    "expected": "ishimwe-sumaya"
+  },
+  {
+    "query": "Who is the Offline and quality engineer?",
+    "expected": "ishimwe-sumaya"
+  },
+  {
+    "query": "Who built offline mode?",
+    "expected": "ishimwe-sumaya"
+  },
+  {
+    "query": "What is the capital of France?",
+    "expected": null
+  },
+  {
+    "query": "Best pizza recipe",
+    "expected": null
+  },
+  {
+    "query": "asdfgh qwerty",
+    "expected": null
+  },
+  {
+    "query": "hello",
+    "expected": null
+  },
+  {
+    "query": "Who will win the football match tomorrow?",
+    "expected": null
+  },
+  {
+    "query": "Tell me about the lecturer",
+    "expected": null
+  }
 ]

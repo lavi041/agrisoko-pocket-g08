@@ -12,7 +12,7 @@ import { AppButton, Body, Card, Heading, Loading, Notice, sourceBadge } from '..
 import { Screen } from '../components/Screen';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Ask'>;
-const EXAMPLES = ['Who built offline mode?', 'Tell me about Alice', 'Who is the AI and data engineer?'];
+const EXAMPLES = ['Who built offline mode?', 'Tell me about Aisha', 'Who is the AI and data engineer?'];
 
 export default function AskScreen({ navigation }: Props) {
   const [text, setText] = useState('');
