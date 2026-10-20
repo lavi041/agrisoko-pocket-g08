@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "AgriSoko Pocket G08",
+    "slug": "agrisoko-pocket-g08",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "rw.ac.ines.agrisokopocket.g08",
+      "versionCode": 1
+    },
+    "extra": {
+      "apiBaseUrl": "https://REPLACE-YOUR-API.onrender.com",
+      "groupCode": "G08",
+      "githubUrl": "https://github.com/lavi041/agrisoko-pocket-g08",
+      "verificationCode": "REPLACE-VERIFICATION-CODE"
+    }
+  }
+}

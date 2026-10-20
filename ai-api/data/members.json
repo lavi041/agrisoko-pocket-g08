@@ -1,0 +1,78 @@
+[
+  {
+    "fullName": "Alice Example",
+    "registrationNumber": "REPLACE_REG_NO_1",
+    "aliases": ["Alice", "Ally", "Product Lead"],
+    "githubUsername": "replace-github-alice",
+    "role": "Product and GitHub lead",
+    "skills": ["backlog management", "GitHub issues", "pull request review", "release tagging"],
+    "targetUser": "the AgriSoko team and lecturers who need to verify who built what",
+    "problem": "contribution evidence was scattered across chats and uploads",
+    "contribution": "Created the repository, issues and milestones, merged reviewed work into main and published the v1.0.0 GitHub Release.",
+    "feature": "release management and GitHub workflow",
+    "outcomeMetric": "",
+    "evidenceLinks": [
+      {"label": "Repository", "url": "https://github.com/lavi041/agrisoko-pocket-g08"},
+      {"label": "Pull request", "url": "https://github.com/lavi041/agrisoko-pocket-g08/pull/1"}
+    ],
+    "testerFeedback": [],
+    "introductionDraft": "REPLACE: Alice writes her own introduction here and signs the record."
+  },
+  {
+    "fullName": "Bob Example",
+    "registrationNumber": "REPLACE_REG_NO_2",
+    "aliases": ["Bob", "Bobby", "Model Builder"],
+    "githubUsername": "replace-github-bob",
+    "role": "AI and data engineer",
+    "skills": ["TF-IDF", "scikit-learn", "cosine similarity", "model evaluation", "members.json schema"],
+    "targetUser": "visitors who ask a natural question about a team member",
+    "problem": "free-text questions must be matched to the right approved profile without inventing facts",
+    "contribution": "Built the members.json schema, text normalisation, TF-IDF index, confidence threshold and the evaluation script.",
+    "feature": "TF-IDF matching engine",
+    "outcomeMetric": "",
+    "evidenceLinks": [
+      {"label": "Repository", "url": "https://github.com/lavi041/agrisoko-pocket-g08"},
+      {"label": "Pull request", "url": "https://github.com/lavi041/agrisoko-pocket-g08/pull/2"}
+    ],
+    "testerFeedback": [],
+    "introductionDraft": "REPLACE: Bob writes his own introduction here and signs the record."
+  },
+  {
+    "fullName": "Carol Example",
+    "registrationNumber": "REPLACE_REG_NO_3",
+    "aliases": ["Carol", "CJ", "API Engineer"],
+    "githubUsername": "replace-github-carol",
+    "role": "API and integration engineer",
+    "skills": ["FastAPI", "Pydantic validation", "pytest", "deployment", "logging"],
+    "targetUser": "the mobile app that needs a stable and safe contract",
+    "problem": "the phone needs validated requests and safe errors from the AI service",
+    "contribution": "Implemented the FastAPI endpoints, Pydantic schemas, error handling, API tests and deployment.",
+    "feature": "FastAPI endpoints and deployment",
+    "outcomeMetric": "",
+    "evidenceLinks": [
+      {"label": "Repository", "url": "https://github.com/lavi041/agrisoko-pocket-g08"},
+      {"label": "Pull request", "url": "https://github.com/lavi041/agrisoko-pocket-g08/pull/3"}
+    ],
+    "testerFeedback": [],
+    "introductionDraft": "REPLACE: Carol writes her own introduction here and signs the record."
+  },
+  {
+    "fullName": "David Example",
+    "registrationNumber": "REPLACE_REG_NO_4",
+    "aliases": ["David", "Dave", "Mobile Dev"],
+    "githubUsername": "replace-github-david",
+    "role": "Mobile UI, offline and release engineer",
+    "skills": ["React Native", "Expo", "AsyncStorage", "NetInfo", "EAS Android build"],
+    "targetUser": "cooperative members who use the app on a phone with weak network",
+    "problem": "the app must still answer name and role questions when there is no network",
+    "contribution": "Built the screens, navigation, offline lookup, cache source labels and the EAS release APK.",
+    "feature": "offline mode and APK release",
+    "outcomeMetric": "",
+    "evidenceLinks": [
+      {"label": "Repository", "url": "https://github.com/lavi041/agrisoko-pocket-g08"},
+      {"label": "Pull request", "url": "https://github.com/lavi041/agrisoko-pocket-g08/pull/4"}
+    ],
+    "testerFeedback": [],
+    "introductionDraft": "REPLACE: David writes his own introduction here and signs the record."
+  }
+]

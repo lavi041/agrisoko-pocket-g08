@@ -1,0 +1,10 @@
+{
+  "model_version": "agrisoko-tfidf-1.0.0",
+  "threshold": 0.45,
+  "dataset_fingerprint_sha256": "bf6aa2ca033fcefd3d89e8c67d735de0a7434f3c158d1d4afd64ebd3bb4019f4",
+  "member_count": 4,
+  "vocabulary_word": 385,
+  "vocabulary_char": 1732,
+  "build_commit": "unknown",
+  "built_at": "2026-10-20T09:09:57.906088+00:00"
+}
