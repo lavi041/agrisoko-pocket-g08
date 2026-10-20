@@ -14,6 +14,9 @@
       "groupCode": "G08",
       "githubUrl": "https://github.com/lavi041/agrisoko-pocket-g08",
       "verificationCode": "REPLACE-VERIFICATION-CODE"
-    }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
   }
 }

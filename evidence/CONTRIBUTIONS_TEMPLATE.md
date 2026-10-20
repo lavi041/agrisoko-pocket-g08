@@ -11,4 +11,4 @@
 | members.json schema + TF-IDF + evaluation | TODO | | | | | | | |
 | FastAPI endpoints + deployment | TODO | | | | | | | |
 Disagreements (be honest): TODO
-Signatures: ______ (M1)  ______ (M2)  ______ (M3)  ______ (M4)   Date: ______
+Signatures: ______ Aisha  ______ Mahgoub  ______ Manzi  ______ Adelphine  ______ Sumaya   Date: ______
