@@ -68,6 +68,7 @@ Download the APK, rename it `AgriSokoPocket_G08.apk`, place it in `build/` and a
 - Repository URL: https://github.com/lavi041/agrisoko-pocket-g08  |  Release URL (v1.0.0): TODO
 - Final commit hash: TODO  |  APK path: `build/AgriSokoPocket_G08.apk`
 - API URL: https://agrisoko-pocket-g08.onrender.com
+- Group verification code: COMBO_A3_G08
 
 ## Known limitations
 - Vocabulary-based retrieval: synonyms and heavy misspellings can be missed.
