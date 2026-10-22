@@ -16,17 +16,29 @@
     ],
     "targetUser": "the team and lecturers who need to verify who built what",
     "problem": "contribution evidence was scattered and hard to verify",
-    "contribution": "Responsible for the repository, issues and milestones, merging reviewed work into main, the v1.0.0 release with the APK, the final report and the submission package.",
+    "contribution": "Created the repository, invited the collaborators and opened issues #3-#7. Opened pull requests #1, #2, #8 and #9. Set a branch rule that requires one approval before merging into main. Deployed the FastAPI service on Render, built the preview APK with EAS, tested it on a physical Android phone and took the screenshots.",
     "feature": "GitHub workflow, release and evidence package",
-    "outcomeMetric": "",
+    "outcomeMetric": "Preview APK tested without Expo Go on a physical Android phone: 6 of 6 checks passed (home, name query, no-match query, directory and profile, about, offline match). See evidence/TEST_LOG.md.",
     "evidenceLinks": [
       {
         "label": "Repository",
         "url": "https://github.com/lavi041/agrisoko-pocket-g08"
+      },
+      {
+        "label": "Issue #3 (release and evidence)",
+        "url": "https://github.com/lavi041/agrisoko-pocket-g08/issues/3"
+      },
+      {
+        "label": "Pull request #8",
+        "url": "https://github.com/lavi041/agrisoko-pocket-g08/pull/8"
+      },
+      {
+        "label": "Pull request #9",
+        "url": "https://github.com/lavi041/agrisoko-pocket-g08/pull/9"
       }
     ],
     "testerFeedback": [],
-    "introductionDraft": "REPLACE: write your own introduction after your work is merged, then sign this record."
+    "introductionDraft": "My name is Aisha. I am the Product and GitHub lead of AgriSoko Pocket G08. I created the repository, the five feature issues and the branch protection rule, deployed the AI service on Render and built the Android APK with EAS. Visitors and lecturers can verify who built each part of the product from the repository, the tests and the demo."
   },
   {
     "fullName": "Mahgoub ADIL AHMED ALHASSAN",
