@@ -10,13 +10,17 @@
       "versionCode": 1
     },
     "extra": {
-      "apiBaseUrl": "https://REPLACE-YOUR-API.onrender.com",
+      "apiBaseUrl": "https://agrisoko-pocket-g08.onrender.com",
       "groupCode": "G08",
       "githubUrl": "https://github.com/lavi041/agrisoko-pocket-g08",
-      "verificationCode": "REPLACE-VERIFICATION-CODE"
+      "verificationCode": "COMBO_A3_G08",
+      "eas": {
+        "projectId": "94ebca7e-ba73-4041-9a92-0c098e3e7fc6"
+      }
     },
     "plugins": [
       "expo-status-bar"
-    ]
+    ],
+    "owner": "lavijt"
   }
 }
